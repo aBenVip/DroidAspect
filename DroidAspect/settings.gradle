@@ -1,0 +1,1 @@
+include ':app', ':droidaspect-plugin', ':droidaspect-annotations', ':droidaspect-aspect'
